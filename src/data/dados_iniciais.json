@@ -1,3 +1,6 @@
+// 20200802134002
+// https://raw.githubusercontent.com/imersao-alura/aluraflix/master/src/data/dados_iniciais.json
+
 {
   "categorias": [
     {
@@ -40,7 +43,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +69,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
